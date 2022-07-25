@@ -8,4 +8,8 @@ class testcontrollers extends Controller
     {
         return 'index';
     }
+    public function index2()
+    {
+        return 'index2';
+    }
 }
